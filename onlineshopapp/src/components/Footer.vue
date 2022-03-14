@@ -55,7 +55,7 @@
                                 <ul class="pt-2">
                                     <li class="pt-1"><b-icon  class="m-1" icon="telephone-fill"></b-icon> +38344111258 </li>
                                     <li class="pt-1"><b-icon class="m-1" icon="inbox-fill"></b-icon>onlineshop@support.com</li>
-                                    <li class="pt-1"><b-icon class="m-1" icon="geo-alt-fill"></b-icon>Magjistralja Prishtine-Shkup km.6</li>
+                                    <li class="pt-1"><b-icon class="m-1" icon="geo-alt-fill"></b-icon>Magjistralja Prishtine-Shkup km.12</li>
                                     <div class="icons">
                                     <li class="pt-1"><a href="https://www.facebook.com/"><b-icon class="h2 mb-2 m-2" icon="facebook" variant="primary"></b-icon></a>
                                     <a href="https://www.instagram.com/"><b-icon class="h2 mb-2 m-2" icon="instagram" variant="danger"></b-icon></a>
