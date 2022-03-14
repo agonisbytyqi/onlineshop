@@ -67,7 +67,7 @@
           <template v-else>
           <li class="nav-item">
             <router-link class="nav-link" to="login">
-             <a class="bg-color">Login</a>
+             <a style="background-color: white">Login</a>
             </router-link>
           </li>
           <li class="nav-item">
