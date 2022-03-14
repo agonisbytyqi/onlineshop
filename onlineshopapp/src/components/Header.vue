@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-navbar toggleable="lg" type="dark" variant="dark">
+    <b-navbar toggleable="lg" type="lightgrey" variant="lightgrey">
       <b-navbar-brand class="px-3"
         ><img
           src="https://storage-asset.msi.com/global/picture/features/VGA/GTX1650/Gaming/gaming-x-logo.png"
