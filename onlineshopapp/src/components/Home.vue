@@ -103,24 +103,24 @@ import axios from 'axios'
 @media (max-width: 575.98px) {
   .bv-example-row {
      display: block;
-  width: 280px;
+  width: 281px;
   height: auto;
-  padding: 5px;
+  padding: 6px;
   }
 }
 
 .product-img{
   border: 1px solid lightgrey;
-  padding: 7px;
+  padding: 6.5px;
 
   background-color: white;
-  border-radius: 3%;
+  border-radius: 4%;
 }
 .titulli{
   color: #C60021;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 .price{
   color: black;
